@@ -1,4 +1,4 @@
-This repository contains data files used for analyses in Natalie deHueck's Master's thesis, "Untangling the Causes of InSAR-Derived Land Subsidence in Galveston County" (University of Texas at Austin, Energy and Earth Resources Master's program).
+This repository contains data files used for analyses in Natalie deHueck's Master's thesis, "Untangling the Causes of InSAR-Derived Land Subsidence in Galveston County, Texas" (University of Texas at Austin, Energy and Earth Resources Master's program).
 
 Production data from hydrocarbon wells in Galveston County is collected and made publicly available through the Texas Railroad Commission (TRRC).  We sourced and sorted this data using the EnerdeqTM Browser from S&P Global. (Acknowledgements to Luciano Correa for assisting in accessing this data).  
 
